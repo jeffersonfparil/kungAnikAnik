@@ -1,0 +1,3772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="gene_UTR_repeats_etc.svg"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="286"
+     inkscape:cy="369.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2095"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid346" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8245" />
+    <marker
+       style="overflow:visible"
+       id="marker7742"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path7740"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect7308" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect5945" />
+    <rect
+       x="280"
+       y="120"
+       width="418.51996"
+       height="56.795008"
+       id="rect8414" />
+    <rect
+       x="280"
+       y="120"
+       width="180.00001"
+       height="60.000002"
+       id="rect8422" />
+    <rect
+       x="280"
+       y="120"
+       width="418.51996"
+       height="56.795008"
+       id="rect8478" />
+    <rect
+       x="280"
+       y="120"
+       width="418.51996"
+       height="56.795008"
+       id="rect8482" />
+    <rect
+       x="280"
+       y="120"
+       width="343.23988"
+       height="76.795001"
+       id="rect8486" />
+    <rect
+       x="280"
+       y="120"
+       width="418.51996"
+       height="56.795008"
+       id="rect8490" />
+    <rect
+       x="280"
+       y="120"
+       width="418.51996"
+       height="56.795008"
+       id="rect8494" />
+    <rect
+       x="280"
+       y="120"
+       width="418.51996"
+       height="56.795008"
+       id="rect8498" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect7283" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect7289" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect7293" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect7328" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect7332" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect7336" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect7348" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect7352" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect7521" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect8116" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect8181" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect8191" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect8201" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8261" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8281" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8283" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8326" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8338" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8368" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8370" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8372" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8374" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8438" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8440" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8442" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8444" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8446" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8448" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8450" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8452" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8572" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8574" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8576" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8578" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8580" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8582" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8584" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8586" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8588" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8590" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8592" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8594" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8596" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8598" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8600" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8602" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8718" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8720" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8722" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8724" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8726" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8728" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8730" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8732" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8734" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8736" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8738" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8740" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8742" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8744" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8746" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8748" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8848" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8850" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8852" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8854" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8856" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8858" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8860" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8862" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8864" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8866" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8868" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8870" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8872" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8874" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8876" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8878" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8880" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8882" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8884" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8886" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect9286" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect9288" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect9290" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect9292" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10634" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10680" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10690" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10700" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10884" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10886" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10888" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10902" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10904" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10906" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10920" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10922" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10924" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10938" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10940" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10942" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10956" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10958" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10960" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10974" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10976" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10978" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10992" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10994" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10996" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11010" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11012" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11014" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11028" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11030" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11032" />
+    <rect
+       x="90"
+       y="40"
+       width="126.5952"
+       height="53.915849"
+       id="rect11046" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11048" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11050" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11728" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11730" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11732" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11746" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11748" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11750" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12024" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12026" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12028" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12030" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12032" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12034" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12036" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12038" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12040" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12042" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12044" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12131" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12133" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12135" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12137" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12139" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12141" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12143" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12145" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12147" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect12933" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect12943" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect12953" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13742" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13744" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13746" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13748" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13750" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13752" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13754" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13756" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13758" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13760" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13762" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13764" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13766" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13768" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13770" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13772" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13774" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13776" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13778" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13780" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13782" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13784" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13786" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13788" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13790" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13792" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13794" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13796" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13798" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13800" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13802" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13804" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13806" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13826" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13828" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect13830" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10634-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10680-0" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10690-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10884-3" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10886-6" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10888-0" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10902-6" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10904-2" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10906-6" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10920-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10922-8" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10924-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10938-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10940-2" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10942-0" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10956-2" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10958-3" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10960-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10974-5" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10976-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10978-2" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10992-2" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10994-8" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect10996-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11010-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11012-3" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11014-6" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11028-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11030-2" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11032-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11728-3" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11730-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect11732-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1786" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1788" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1790" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8245-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8326-0" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8370-6" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8374-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8440-5" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8442-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8448-4" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8450-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8574-0" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8576-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8586-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8588-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8592-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8598-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8602-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8856-5" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8860-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8866-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8870-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8872-6" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8876-7" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect8882-3" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect9286-6" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect9290-5" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12040-6" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12042-3" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12044-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12131-4" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12133-8" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12135-1" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12137-2" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12139-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12141-3" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12143-9" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12145-0" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12147-8" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12130" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12132" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12134" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12152" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12154" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12156" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12174" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12176" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12178" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12196" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12198" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12200" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12218" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12220" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12222" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12240" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12242" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12244" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12262" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12264" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12266" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12284" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12286" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12288" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12306" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12308" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12310" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12328" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12330" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12332" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12350" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12352" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12354" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12372" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12374" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12376" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12394" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12396" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12398" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12432" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12434" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12436" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12476" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12478" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12480" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12482" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12484" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12486" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12619" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12621" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12623" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12625" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12627" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12629" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12705" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12707" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12709" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12711" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12713" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12715" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12795" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12797" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12799" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12801" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12803" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12805" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12807" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12809" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12811" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12813" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12815" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect12817" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect944" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect946" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect948" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect950" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect952" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect954" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect956" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect958" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect960" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect962" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect964" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect966" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect968" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect970" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect972" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect974" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect976" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect978" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect980" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect982" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect984" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect986" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect988" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect990" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1057" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1114" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1116" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1118" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1120" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1122" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1124" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1126" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1166" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1168" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1170" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1172" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1174" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1176" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1178" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1218" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1220" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1222" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1224" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1226" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1228" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1230" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1313" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1315" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect1317" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect1937" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect1964" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect1974" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect1995" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect2005" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect2243" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect2284" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2420" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2422" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2424" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2426" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2428" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2430" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2432" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2434" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2436" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2438" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2440" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2442" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2444" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2446" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2448" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2450" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2452" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2454" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2456" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2458" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2460" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2462" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2464" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2466" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2468" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2470" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2472" />
+    <rect
+       x="90"
+       y="40"
+       width="80"
+       height="55"
+       id="rect2474" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect2476" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect2542" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2583" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2593" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2603" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2613" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2640" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2642" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2644" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2646" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect2661" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect2677" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2695" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2705" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect2715" />
+    <rect
+       x="40"
+       y="85"
+       width="238.29702"
+       height="54.618306"
+       id="rect2725" />
+    <rect
+       x="40"
+       y="85"
+       width="238.29702"
+       height="54.618306"
+       id="rect3197" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect3207" />
+    <rect
+       x="40"
+       y="85"
+       width="100"
+       height="55"
+       id="rect3219" />
+    <rect
+       x="140"
+       y="-50"
+       width="730"
+       height="100"
+       id="rect1081" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3787"
+       transform="translate(-1.428646,3.5264107)">
+      <g
+         id="g1846"
+         transform="translate(29.765623,15.874997)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 21.034375,102.52604 H 13.096876"
+           id="path940" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 140.22917,102.52604 h -7.9375"
+           id="path942" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 25.135417,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path764" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 29.104166,100.54167 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path766" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 21.166667,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path768" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,16.244883,98.351501)"
+           id="text772"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect944);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3845">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,24.078884,98.351501)"
+           id="text776"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect946);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3847">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,20.325196,98.351501)"
+           id="text780"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect948);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3849">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 37.041667,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path784" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 41.010416,100.54167 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path786" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 33.072917,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path788" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,28.151133,98.355533)"
+           id="text792"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect950);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3851">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,35.985134,98.351501)"
+           id="text796"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect952);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3853">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,32.231446,98.351501)"
+           id="text800"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect954);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3855">G</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 44.979167,100.54167 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path1051" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,39.953885,98.351501)"
+           id="text1055"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1057);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3857">G</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 52.916667,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1082" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 56.885416,100.54167 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path1084" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 48.947917,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1086" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,44.026133,98.351501)"
+           id="text1088"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1114);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3859">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,51.860134,98.351501)"
+           id="text1090"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1116);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3861">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,48.106446,98.351501)"
+           id="text1094"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1118);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3863">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 64.822917,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1096" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.791666,100.54167 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path1098" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 60.854167,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1100" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,55.932383,98.355533)"
+           id="text1102"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1120);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3865">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,63.766384,98.351501)"
+           id="text1104"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1122);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3867">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,60.012696,98.351501)"
+           id="text1106"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1124);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3869">G</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 72.760417,100.54167 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path1108" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,67.735135,98.351501)"
+           id="text1110"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1126);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3871">G</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 80.697917,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1134" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 84.666666,100.54167 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path1136" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 76.729167,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1138" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,71.807383,98.351501)"
+           id="text1140"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1166);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3873">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,79.641384,98.351501)"
+           id="text1142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1168);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3875">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,75.887696,98.351501)"
+           id="text1146"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1170);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3877">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 92.604167,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1148" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 96.572916,100.54167 v 3.96875 h 3.968754 v -3.96875 z"
+           id="path1150" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.635417,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1152" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,83.713633,98.355533)"
+           id="text1154"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1172);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3879">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,91.547634,98.351501)"
+           id="text1156"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1174);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3881">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,87.793946,98.351501)"
+           id="text1158"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1176);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3883">G</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 100.54167,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1160" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,95.516385,98.351501)"
+           id="text1162"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1178);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3885">G</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 108.47917,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1186" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 112.44792,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1188" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 104.51042,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1190" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,99.588633,98.351501)"
+           id="text1192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1218);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3887">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,107.42263,98.351501)"
+           id="text1194"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1220);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3889">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,103.66895,98.351501)"
+           id="text1198"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1222);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3891">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 120.38542,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 124.35417,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1202" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 116.41667,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1204" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,111.49488,98.355533)"
+           id="text1206"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1224);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3893">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,119.32888,98.351501)"
+           id="text1208"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1226);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3895">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,115.5752,98.351501)"
+           id="text1210"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1228);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3897">G</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 128.32292,100.54167 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1212" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,123.29764,98.351501)"
+           id="text1214"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1230);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3899">G</tspan></text>
+      </g>
+      <g
+         id="g1931"
+         transform="translate(31.816165,9.492525)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 25.003083,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path8776" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 28.971832,92.670312 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path8786" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 21.034333,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path8794" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,16.112549,90.480143)"
+           id="text8780"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8856-5);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3901">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,23.94655,90.480143)"
+           id="text8788"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8860-9);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3903">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,20.192862,90.480143)"
+           id="text8802"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8866-7);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3905">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 36.909333,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12416" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 40.878082,92.670312 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path12418" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 32.940583,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12420" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,28.018799,90.480143)"
+           id="text12422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12432);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3907">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,35.8528,90.480143)"
+           id="text12424"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12434);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3909">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,32.099112,90.480143)"
+           id="text12428"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12436);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3911">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 48.815592,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12669" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 52.784341,92.670312 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path12671" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 44.846842,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12673" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,39.925058,90.480143)"
+           id="text12675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12705);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3913">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,47.759059,90.480143)"
+           id="text12677"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12707);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3915">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,44.005371,90.480143)"
+           id="text12681"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12709);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3917">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 60.721842,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12685" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 64.690591,92.670312 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path12687" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 56.753092,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12689" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,51.831308,90.480143)"
+           id="text12691"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12711);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3919">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,59.665309,90.480143)"
+           id="text12693"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12713);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3921">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,55.911621,90.480143)"
+           id="text12697"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12715);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3923">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 72.628107,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12723" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 76.596856,92.670312 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path12725" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.659357,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12727" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,63.737573,90.480143)"
+           id="text12729"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12795);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3925">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,71.571574,90.480143)"
+           id="text12731"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12797);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3927">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,67.817886,90.480143)"
+           id="text12735"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12799);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3929">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 84.534357,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12739" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.503106,92.670312 v 3.96875 h 3.968755 v -3.96875 z"
+           id="path12741" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 80.565607,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12743" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,75.643823,90.480143)"
+           id="text12745"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12801);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3931">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,83.477824,90.480143)"
+           id="text12747"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12803);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3933">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,79.724136,90.480143)"
+           id="text12751"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12805);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3935">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 96.440622,92.670312 v 3.96875 h 3.968758 v -3.96875 z"
+           id="path12759" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 100.40938,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12761" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 92.471872,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12763" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,87.550088,90.480143)"
+           id="text12765"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12807);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3937">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,95.384089,90.480143)"
+           id="text12767"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12809);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3939">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,91.630401,90.480143)"
+           id="text12771"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12811);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3941">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 108.34688,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12775" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 112.31563,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12777" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 104.37813,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path12779" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,99.456338,90.480143)"
+           id="text12781"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12813);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3943">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,107.29034,90.480143)"
+           id="text12783"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12815);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3945">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,103.53665,90.480143)"
+           id="text12787"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12817);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3947">T</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 20.902041,94.654687 H 12.964542"
+           id="path12879" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.26042,94.654687 h -7.9375"
+           id="path12881" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 120.38542,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1291" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 124.35417,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1293" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 116.41667,92.670312 v 3.96875 h 3.96875 v -3.96875 z"
+           id="path1295" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,111.49488,90.480143)"
+           id="text1299"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1313);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3949">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,119.32888,90.480143)"
+           id="text1303"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1315);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3951">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.06720669,0,0,0.06720669,115.57519,90.480143)"
+           id="text1307"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1317);display:inline"><tspan
+             x="90"
+             y="76.395007"
+             id="tspan3953">T</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.18272329,0,0,0.18272329,53.325611,93.63421)"
+         id="text1935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1937);display:inline"><tspan
+           x="140"
+           y="-13.604993"
+           id="tspan3955">Tandem repeats</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.09008209,0,0,0.09008209,82.37133,100.70654)"
+         id="text1993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1995);display:inline"><tspan
+           x="140"
+           y="-13.604993"
+           id="tspan3957">Microsatellite</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.09008209,0,0,0.09008209,86.019654,115.25862)"
+         id="text2003"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2005);display:inline"><tspan
+           x="140"
+           y="-13.604993"
+           id="tspan3959">Telomere</tspan></text>
+    </g>
+    <g
+       id="g3806"
+       transform="translate(2.3142635)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.18272329,0,0,0.18272329,37.555859,154.68056)"
+         id="text2282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2284);display:inline"><tspan
+           x="140"
+           y="-13.604993"
+           id="tspan3961">Transposable elements</tspan></text>
+      <g
+         id="g3427"
+         transform="translate(26.53157,-13.797103)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,45.30466,174.78987)"
+           id="text2540"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2542);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan3963">LTR retrotransposons</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 26.385103,180.48461 h 14.552083 l -1.322917,-1.32292 1.322917,1.32292 -1.322917,1.32291 1.322917,-1.32291 h 2.645833 v -2.64584 5.29167 h 17.197917 v -5.29167 H 43.583019 60.780936 v 2.64584 h 2.645833 v -2.64584 5.29167 h 44.979161 v -5.29167 H 63.426769 108.40593 v 2.64584 h 17.19792 l -1.32292,-1.32292 1.32292,1.32292 -1.32292,1.32291"
+           id="path2538" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,27.247782,174.43559)"
+           id="text2581"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2583);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3965">LTR</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,46.951135,172.11627)"
+           id="text2591"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2593);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3967">gag</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,80.439968,172.42697)"
+           id="text2601"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2603);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3969">pol</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,112.5678,174.43559)"
+           id="text2611"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2613);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3971">LTR</tspan></text>
+      </g>
+      <g
+         id="g3437"
+         transform="translate(29.066309,-13.797103)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,40.752082,197.35098)"
+           id="text2675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2677);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan3973">Ac/Ds (DNA transposon)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,36.218668,196.17728)"
+           id="text2693"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2695);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3975">IR</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,79.874918,196.17728)"
+           id="text2703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2705);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3977">IR</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,101.02658,196.17728)"
+           id="text2713"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2715);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3979">IR</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,56.957314,194.21964)"
+           id="text2723"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2725);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3981">Transposase</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,46.112073,194.56955)"
+           id="text3205"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3207);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3983">ORF1</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 35.254845,202.34406 h 11.90625 v -2.64583 5.29166 h 10.583333 v -5.29166 H 47.161095 57.744428 v 5.29166 h 21.166666 v -5.29166 H 57.744428 78.911094 v 2.64583 h 11.90625 v -2.64583 5.29166 h 9.260416 v -5.29166 h -9.260416 9.260416 v 2.64583 h 11.90625"
+           id="path3215" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,89.024615,194.56955)"
+           id="text3217"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3219);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan3985">ORF2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2158">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.18272329,0,0,0.18272329,68.568634,24.108695)"
+         id="text7306"
+         style="font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';white-space:pre;shape-inside:url(#rect7308);display:inline"><tspan
+           x="140"
+           y="-13.604993"
+           id="tspan3987">Genes</tspan></text>
+      <g
+         id="g2111">
+        <g
+           id="g1989"
+           transform="translate(30.737595,2.645833)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+             d="m 14.637466,34.395834 v 0 h 25.135417 v 2.645833 h 89.958327 v 1.322917 l 3.96875,-3.96875 -3.96875,-3.96875 v 1.322917 H 39.772883 v 2.645833 z"
+             id="path728"
+             sodipodi:nodetypes="cccccccccccc" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.07259454,0,0,0.07259454,37.181124,26.619869)"
+             id="text7291"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7293);display:inline"><tspan
+               x="40"
+               y="121.39501"
+               id="tspan3989">ATG</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.09008209,0,0,0.09008209,5.7774715,38.760365)"
+             id="text7326"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7328);display:inline"><tspan
+               x="140"
+               y="-13.604993"
+               id="tspan3991">Promoter</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.07259454,0,0,0.07259454,122.64154,26.624225)"
+             id="text8189"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8191);display:inline"><tspan
+               x="40"
+               y="121.39501"
+               id="tspan3993">TAA</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.09568932,0,0,0.09568932,64.253579,31.19831)"
+         id="text12931"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12933);display:inline"><tspan
+           x="140"
+           y="-13.604993"
+           id="tspan3995">(Extremes: 21 bases to 2.3 Mb)</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.09568932,0,0,0.09568932,68.18449,26.795621)"
+         id="text12951"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12953);display:inline"><tspan
+           x="140"
+           y="-13.604993"
+           id="tspan3997">(Mean range: 1 kb to 5 kb)</tspan></text>
+      <g
+         id="g2095">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 31.076353,54.239584 -1.322917,1.322917 1.322917,1.322916 -1.322917,-1.322916 h 14.552091 v -2.645834 5.291666 H 58.857611 V 52.916667 H 44.305528 58.857611 v 2.645834 h 7.9375 v -2.645834 5.291666 h 3.96875 v -5.291666 h -3.96875 3.96875 v 2.645834 h 3.96875 v -2.645834 5.291666 H 97.222193 V 52.916667 H 74.732611 97.222193 v 2.645834 h 19.843747 v -2.645834 5.291666 h 6.61458 v -5.291666 h -6.61458 6.61458 v 2.645834 l 56.88542,-10e-7"
+           id="path726"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,19.237482,60.030765)"
+           id="text7334"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7336);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan3999">3' UTR</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,72.156729,48.399132)"
+           id="text7346"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7348);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan4001">Exons</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,71.151919,67.713713)"
+           id="text7350"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7352);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan4003">Introns</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 120.50552,47.738764 H 52.243021"
+           id="path7450"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7742)"
+           d="m 68.647186,51.707514 v -3.96875"
+           id="path7509"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,147.24921,60.010947)"
+           id="text7519"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7521);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan4005">Promoter</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7742)"
+           d="m 89.284686,51.707514 v -3.96875"
+           id="path8066"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7742)"
+           d="m 120.50552,51.310639 v -3.96875"
+           id="path8072"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7742)"
+           d="m 52.507604,51.310639 v -3.96875"
+           id="path8084"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 107.6744,63.613764 62.166072,63.481472"
+           id="path8106"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7742)"
+           d="m 62.297187,56.734597 v 6.879167"
+           id="path8114"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7742)"
+           d="m 72.615936,56.470014 v 6.879167"
+           id="path8150"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7742)"
+           d="m 107.54094,56.734597 v 6.879167"
+           id="path8156"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,114.77877,47.786535)"
+           id="text8179"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8181);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan4007">GTA</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07259454,0,0,0.07259454,46.211677,47.790891)"
+           id="text8199"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8201);display:inline"><tspan
+             x="40"
+             y="121.39501"
+             id="tspan4009">AGT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,129.99503,60.050583)"
+           id="text2241"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2243);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan4011">uORF</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,115.70744,60.050583)"
+           id="text2659"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2661);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan4013">ORF</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.09008209,0,0,0.09008209,122.21996,66.8062)"
+           id="text1079"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1081);display:inline"><tspan
+             x="140"
+             y="-13.604993"
+             id="tspan4015">5' UTR</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 156.10417,62.177083 h -31.75"
+           id="path1089"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 124.35417,59.53125 0,2.645833"
+           id="path1187"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 156.10417,59.53125 0,2.645833"
+           id="path1189"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+</svg>
